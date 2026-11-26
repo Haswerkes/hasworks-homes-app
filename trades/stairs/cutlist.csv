@@ -1,0 +1,67 @@
+seq,label,qr_payload,trade,role,item,material_class,nominal,material,length_mm,length_ft_in,mitre_a_deg,mitre_b_deg,bevel_end_deg,laser_marks,bundle,drop_zone,install_step,install_order,origin,refs,flags
+1,NAT1-1-ST-01-01,NAT1/1-ST-01-01,stairs,SG,flight 1 stringer L,core,2x12,SPF,2438.0,"8'-0""",37.1,52.9,0.0,notch 1: rise 192.9 x run 255 at 100 mm; notch 2: rise 192.9 x run 255 at 420 mm; notch 3: rise 192.9 x run 255 at 739 mm; notch 4: rise 192.9 x run 255 at 1059 mm; notch 5: rise 192.9 x run 255 at 1379 mm; notch 6: rise 192.9 x run 255 at 1699 mm; notch 7: rise 192.9 x run 255 at 2018 mm,NAT1-ST-B1,flight 1,ST-01,1,derived,"BCBC 9.8.4.1, 9.8.4.2",notches marked; cut on site or by a notching add-on
+2,NAT1-1-ST-01-02,NAT1/1-ST-01-02,stairs,SG,flight 1 stringer M,core,2x12,SPF,2438.0,"8'-0""",37.1,52.9,0.0,notch 1: rise 192.9 x run 255 at 100 mm; notch 2: rise 192.9 x run 255 at 420 mm; notch 3: rise 192.9 x run 255 at 739 mm; notch 4: rise 192.9 x run 255 at 1059 mm; notch 5: rise 192.9 x run 255 at 1379 mm; notch 6: rise 192.9 x run 255 at 1699 mm; notch 7: rise 192.9 x run 255 at 2018 mm,NAT1-ST-B1,flight 1,ST-01,1,derived,"BCBC 9.8.4.1, 9.8.4.2",notches marked; cut on site or by a notching add-on
+3,NAT1-1-ST-01-03,NAT1/1-ST-01-03,stairs,SG,flight 1 stringer R,core,2x12,SPF,2438.0,"8'-0""",37.1,52.9,0.0,notch 1: rise 192.9 x run 255 at 100 mm; notch 2: rise 192.9 x run 255 at 420 mm; notch 3: rise 192.9 x run 255 at 739 mm; notch 4: rise 192.9 x run 255 at 1059 mm; notch 5: rise 192.9 x run 255 at 1379 mm; notch 6: rise 192.9 x run 255 at 1699 mm; notch 7: rise 192.9 x run 255 at 2018 mm,NAT1-ST-B1,flight 1,ST-01,1,derived,"BCBC 9.8.4.1, 9.8.4.2",notches marked; cut on site or by a notching add-on
+4,NAT1-1-ST-02-04,NAT1/1-ST-02-04,stairs,SG,flight 2 stringer L,core,2x12,SPF,2438.0,"8'-0""",37.1,52.9,0.0,notch 1: rise 192.9 x run 255 at 100 mm; notch 2: rise 192.9 x run 255 at 420 mm; notch 3: rise 192.9 x run 255 at 739 mm; notch 4: rise 192.9 x run 255 at 1059 mm; notch 5: rise 192.9 x run 255 at 1379 mm; notch 6: rise 192.9 x run 255 at 1699 mm; notch 7: rise 192.9 x run 255 at 2018 mm,NAT1-ST-B1,flight 2,ST-02,2,derived,"BCBC 9.8.4.1, 9.8.4.2",notches marked; cut on site or by a notching add-on
+5,NAT1-1-ST-02-05,NAT1/1-ST-02-05,stairs,SG,flight 2 stringer M,core,2x12,SPF,2438.0,"8'-0""",37.1,52.9,0.0,notch 1: rise 192.9 x run 255 at 100 mm; notch 2: rise 192.9 x run 255 at 420 mm; notch 3: rise 192.9 x run 255 at 739 mm; notch 4: rise 192.9 x run 255 at 1059 mm; notch 5: rise 192.9 x run 255 at 1379 mm; notch 6: rise 192.9 x run 255 at 1699 mm; notch 7: rise 192.9 x run 255 at 2018 mm,NAT1-ST-B1,flight 2,ST-02,2,derived,"BCBC 9.8.4.1, 9.8.4.2",notches marked; cut on site or by a notching add-on
+6,NAT1-1-ST-02-06,NAT1/1-ST-02-06,stairs,SG,flight 2 stringer R,core,2x12,SPF,2438.0,"8'-0""",37.1,52.9,0.0,notch 1: rise 192.9 x run 255 at 100 mm; notch 2: rise 192.9 x run 255 at 420 mm; notch 3: rise 192.9 x run 255 at 739 mm; notch 4: rise 192.9 x run 255 at 1059 mm; notch 5: rise 192.9 x run 255 at 1379 mm; notch 6: rise 192.9 x run 255 at 1699 mm; notch 7: rise 192.9 x run 255 at 2018 mm,NAT1-ST-B1,flight 2,ST-02,2,derived,"BCBC 9.8.4.1, 9.8.4.2",notches marked; cut on site or by a notching add-on
+7,NAT1-1-ST-03-07,NAT1/1-ST-03-07,stairs,TD,tread 1,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+8,NAT1-1-ST-03-08,NAT1/1-ST-03-08,stairs,TD,tread 2,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+9,NAT1-1-ST-03-09,NAT1/1-ST-03-09,stairs,TD,tread 3,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+10,NAT1-1-ST-03-10,NAT1/1-ST-03-10,stairs,TD,tread 4,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+11,NAT1-1-ST-03-11,NAT1/1-ST-03-11,stairs,TD,tread 5,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+12,NAT1-1-ST-03-12,NAT1/1-ST-03-12,stairs,TD,tread 6,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+13,NAT1-1-ST-03-13,NAT1/1-ST-03-13,stairs,TD,tread 7,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+14,NAT1-1-ST-03-14,NAT1/1-ST-03-14,stairs,TD,tread 8,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+15,NAT1-1-ST-03-15,NAT1/1-ST-03-15,stairs,TD,tread 9,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+16,NAT1-1-ST-03-16,NAT1/1-ST-03-16,stairs,TD,tread 10,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+17,NAT1-1-ST-03-17,NAT1/1-ST-03-17,stairs,TD,tread 11,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+18,NAT1-1-ST-03-18,NAT1/1-ST-03-18,stairs,TD,tread 12,core,2x12,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,9.8.4.2 run 255 + nosing,
+19,NAT1-1-ST-03-19,NAT1/1-ST-03-19,stairs,RZ,riser 1,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+20,NAT1-1-ST-03-20,NAT1/1-ST-03-20,stairs,RZ,riser 2,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+21,NAT1-1-ST-03-21,NAT1/1-ST-03-21,stairs,RZ,riser 3,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+22,NAT1-1-ST-03-22,NAT1/1-ST-03-22,stairs,RZ,riser 4,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+23,NAT1-1-ST-03-23,NAT1/1-ST-03-23,stairs,RZ,riser 5,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+24,NAT1-1-ST-03-24,NAT1/1-ST-03-24,stairs,RZ,riser 6,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+25,NAT1-1-ST-03-25,NAT1/1-ST-03-25,stairs,RZ,riser 7,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+26,NAT1-1-ST-03-26,NAT1/1-ST-03-26,stairs,RZ,riser 8,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+27,NAT1-1-ST-03-27,NAT1/1-ST-03-27,stairs,RZ,riser 9,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+28,NAT1-1-ST-03-28,NAT1/1-ST-03-28,stairs,RZ,riser 10,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+29,NAT1-1-ST-03-29,NAT1/1-ST-03-29,stairs,RZ,riser 11,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+30,NAT1-1-ST-03-30,NAT1/1-ST-03-30,stairs,RZ,riser 12,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+31,NAT1-1-ST-03-31,NAT1/1-ST-03-31,stairs,RZ,riser 13,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+32,NAT1-1-ST-03-32,NAT1/1-ST-03-32,stairs,RZ,riser 14,core,1x10,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B2,stair,ST-03,3,derived,,rip to 193 mm off-cell
+33,NAT1-1-ST-02-33,NAT1/1-ST-02-33,stairs,LF,landing front,core,2x6,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B3,landing,ST-02,2,derived,,
+34,NAT1-1-ST-02-34,NAT1/1-ST-02-34,stairs,LF,landing back,core,2x6,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B3,landing,ST-02,2,derived,,
+35,NAT1-1-ST-02-35,NAT1/1-ST-02-35,stairs,LF,landing side L,core,2x6,SPF,838.0,"2'-9""",0.0,0.0,0.0,,NAT1-ST-B3,landing,ST-02,2,derived,,
+36,NAT1-1-ST-02-36,NAT1/1-ST-02-36,stairs,LF,landing side R,core,2x6,SPF,838.0,"2'-9""",0.0,0.0,0.0,,NAT1-ST-B3,landing,ST-02,2,derived,,
+37,NAT1-1-ST-02-37,NAT1/1-ST-02-37,stairs,LF,landing mid,core,2x6,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-ST-B3,landing,ST-02,2,derived,,
+38,NAT1-1-ST-04-38,NAT1/1-ST-04-38,stairs,NW,newel 1,core,4x4,SPF,1200.0,"3'-11 1/4""",0.0,0.0,0.0,rail top 900 mm (9.8.8.3 stairs),NAT1-ST-B4,stair,ST-04,4,derived,,
+39,NAT1-1-ST-04-39,NAT1/1-ST-04-39,stairs,NW,newel 2,core,4x4,SPF,1200.0,"3'-11 1/4""",0.0,0.0,0.0,rail top 900 mm (9.8.8.3 stairs),NAT1-ST-B4,stair,ST-04,4,derived,,
+40,NAT1-1-ST-04-40,NAT1/1-ST-04-40,stairs,NW,newel 3,core,4x4,SPF,1200.0,"3'-11 1/4""",0.0,0.0,0.0,rail top 900 mm (9.8.8.3 stairs),NAT1-ST-B4,stair,ST-04,4,derived,,
+41,NAT1-1-ST-04-41,NAT1/1-ST-04-41,stairs,BA,flight 1 baluster 1,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+42,NAT1-1-ST-04-42,NAT1/1-ST-04-42,stairs,BA,flight 1 baluster 2,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+43,NAT1-1-ST-04-43,NAT1/1-ST-04-43,stairs,BA,flight 1 baluster 3,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+44,NAT1-1-ST-04-44,NAT1/1-ST-04-44,stairs,BA,flight 1 baluster 4,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+45,NAT1-1-ST-04-45,NAT1/1-ST-04-45,stairs,BA,flight 1 baluster 5,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+46,NAT1-1-ST-04-46,NAT1/1-ST-04-46,stairs,BA,flight 1 baluster 6,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+47,NAT1-1-ST-04-47,NAT1/1-ST-04-47,stairs,BA,flight 1 baluster 7,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+48,NAT1-1-ST-04-48,NAT1/1-ST-04-48,stairs,BA,flight 1 baluster 8,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+49,NAT1-1-ST-04-49,NAT1/1-ST-04-49,stairs,BA,flight 1 baluster 9,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+50,NAT1-1-ST-04-50,NAT1/1-ST-04-50,stairs,BA,flight 1 baluster 10,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+51,NAT1-1-ST-04-51,NAT1/1-ST-04-51,stairs,BA,flight 1 baluster 11,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+52,NAT1-1-ST-04-52,NAT1/1-ST-04-52,stairs,BA,flight 1 baluster 12,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+53,NAT1-1-ST-04-53,NAT1/1-ST-04-53,stairs,BA,flight 2 baluster 1,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+54,NAT1-1-ST-04-54,NAT1/1-ST-04-54,stairs,BA,flight 2 baluster 2,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+55,NAT1-1-ST-04-55,NAT1/1-ST-04-55,stairs,BA,flight 2 baluster 3,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+56,NAT1-1-ST-04-56,NAT1/1-ST-04-56,stairs,BA,flight 2 baluster 4,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+57,NAT1-1-ST-04-57,NAT1/1-ST-04-57,stairs,BA,flight 2 baluster 5,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+58,NAT1-1-ST-04-58,NAT1/1-ST-04-58,stairs,BA,flight 2 baluster 6,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+59,NAT1-1-ST-04-59,NAT1/1-ST-04-59,stairs,BA,flight 2 baluster 7,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+60,NAT1-1-ST-04-60,NAT1/1-ST-04-60,stairs,BA,flight 2 baluster 8,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+61,NAT1-1-ST-04-61,NAT1/1-ST-04-61,stairs,BA,flight 2 baluster 9,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+62,NAT1-1-ST-04-62,NAT1/1-ST-04-62,stairs,BA,flight 2 baluster 10,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+63,NAT1-1-ST-04-63,NAT1/1-ST-04-63,stairs,BA,flight 2 baluster 11,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+64,NAT1-1-ST-04-64,NAT1/1-ST-04-64,stairs,BA,flight 2 baluster 12,core,2x2,SPF,940.0,"3'-1""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,9.8.8.5 max opening 100 mm,
+65,NAT1-1-ST-04-65,NAT1/1-ST-04-65,stairs,GR,Stair flight 1 right guard,core,2x4,SPF,1910.8,"6'-3 1/4""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,,
+66,NAT1-1-ST-04-66,NAT1/1-ST-04-66,stairs,GR,Stair flight 2 right guard,core,2x4,SPF,1910.8,"6'-3 1/4""",37.1,37.1,0.0,,NAT1-ST-B4,stair,ST-04,4,derived,,

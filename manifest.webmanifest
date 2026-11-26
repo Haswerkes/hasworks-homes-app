@@ -1,0 +1,24 @@
+{
+  "name": "HASWORKS HOMES",
+  "short_name": "HASWORKS",
+  "description": "HASWORKS HOMES crew app: framing build order, bundle map, piece scan, Level, site layout and building library. Pieces are cut by Acucut by HASWORKS HOMES.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111722",
+  "theme_color": "#0b1018",
+  "categories": ["productivity", "utilities", "business"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Level", "short_name": "Level", "url": "/?tool=level", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Library", "short_name": "Library", "url": "/?tool=library", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

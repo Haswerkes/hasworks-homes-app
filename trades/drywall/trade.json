@@ -1,0 +1,986 @@
+{
+ "id": "drywall",
+ "label": "Drywall",
+ "group": "interior",
+ "rows": [
+  {
+   "seq": 1,
+   "label": "NAT1-1-DW-01-01",
+   "qr_payload": "NAT1/1-DW-01-01",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition W start ladder block 1",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 300 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition W T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 2,
+   "label": "NAT1-1-DW-01-02",
+   "qr_payload": "NAT1/1-DW-01-02",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition W start ladder block 2",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 900 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition W T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 3,
+   "label": "NAT1-1-DW-01-03",
+   "qr_payload": "NAT1/1-DW-01-03",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition W start ladder block 3",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 1500 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition W T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 4,
+   "label": "NAT1-1-DW-01-04",
+   "qr_payload": "NAT1/1-DW-01-04",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition W start ladder block 4",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 2100 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition W T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 5,
+   "label": "NAT1-1-DW-01-05",
+   "qr_payload": "NAT1/1-DW-01-05",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition W end ladder block 1",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 300 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition W T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 6,
+   "label": "NAT1-1-DW-01-06",
+   "qr_payload": "NAT1/1-DW-01-06",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition W end ladder block 2",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 900 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition W T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 7,
+   "label": "NAT1-1-DW-01-07",
+   "qr_payload": "NAT1/1-DW-01-07",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition W end ladder block 3",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 1500 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition W T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 8,
+   "label": "NAT1-1-DW-01-08",
+   "qr_payload": "NAT1/1-DW-01-08",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition W end ladder block 4",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 2100 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition W T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 9,
+   "label": "NAT1-1-DW-01-09",
+   "qr_payload": "NAT1/1-DW-01-09",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition S start ladder block 1",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 300 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition S T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 10,
+   "label": "NAT1-1-DW-01-10",
+   "qr_payload": "NAT1/1-DW-01-10",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition S start ladder block 2",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 900 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition S T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 11,
+   "label": "NAT1-1-DW-01-11",
+   "qr_payload": "NAT1/1-DW-01-11",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition S start ladder block 3",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 1500 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition S T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 12,
+   "label": "NAT1-1-DW-01-12",
+   "qr_payload": "NAT1/1-DW-01-12",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition S start ladder block 4",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 2100 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition S T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 13,
+   "label": "NAT1-1-DW-01-13",
+   "qr_payload": "NAT1/1-DW-01-13",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition S end ladder block 1",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 300 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition S T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 14,
+   "label": "NAT1-1-DW-01-14",
+   "qr_payload": "NAT1/1-DW-01-14",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition S end ladder block 2",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 900 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition S T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 15,
+   "label": "NAT1-1-DW-01-15",
+   "qr_payload": "NAT1/1-DW-01-15",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition S end ladder block 3",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 1500 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition S T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  },
+  {
+   "seq": 16,
+   "label": "NAT1-1-DW-01-16",
+   "qr_payload": "NAT1/1-DW-01-16",
+   "trade": "drywall",
+   "role": "LB",
+   "item": "UF bathroom partition S end ladder block 4",
+   "material_class": "core",
+   "nominal": "2x4",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "Ladder block centre at 2100 mm AFF; drywall fixing edge",
+   "bundle": "NAT1-DW-B1",
+   "drop_zone": "UF bathroom partition S T",
+   "install_step": "DW-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.29.5.6 (fastening at corners)",
+   "flags": ""
+  }
+ ],
+ "label_specs": [],
+ "bundles": [
+  {
+   "bundle": "NAT1-DW-B1",
+   "pieces": 16,
+   "kg": 9.0,
+   "longest_mm": 368.0,
+   "drop_zone": ""
+  }
+ ],
+ "steps": [
+  {
+   "n": 1,
+   "who": "Framer",
+   "what": "Ladder blocks at T-walls at the burned heights.",
+   "gate": "Backing at all corners",
+   "app": "Scan: partition and height"
+  },
+  {
+   "n": 2,
+   "who": "Drywaller",
+   "what": "Hang per the layout list; screw pattern per 9.29.5.",
+   "gate": "Fastener inspection where required",
+   "app": "Board layout per wall"
+  }
+ ],
+ "benefits": [
+  {
+   "metric": "Board waste",
+   "value": "27% layout waste on 70 sheets (openings kept as offcuts)",
+   "basis": "measured (model layout)",
+   "detail": "153 m2 of net wall faces vs 208 m2 of board. NAHB typical: about 2,000 lb drywall waste per 2,000 sq ft home.",
+   "sources": [
+    "nahb_waste",
+    "nahb_field"
+   ]
+  },
+  {
+   "metric": "Blocking time",
+   "value": "0.3 h saved on 16 blocks (about CAD 14)",
+   "basis": "estimate",
+   "detail": "Assumes 1.5 min per block measured and cut on site versus 0.4 min with a labelled, pre-cut part, at CAD 46.2/h loaded. Replace with your own time study.",
+   "sources": []
+  },
+  {
+   "metric": "Lumber waste",
+   "value": "3.4% cut waste vs 10% typical order allowance",
+   "basis": "measured+sourced",
+   "detail": "Acucut 1D nester on this trade's 16 sticks: 1 boards, 6.1 m stock for 5.89 m of parts (bundle-window constrained runs add about 0.5 points). Conventional allowance 5 to 15% (BuildingScience). Difference about 1 bf, CAD 1 at CAD 700/MBF (estimate).",
+   "sources": [
+    "bs_ba0201",
+    "biz"
+   ]
+  },
+  {
+   "metric": "Rework and callbacks",
+   "value": "0.75 to 1.50% of trade spend avoided",
+   "basis": "sourced+estimate",
+   "detail": "FMI puts rework at about 5% of construction spend and 48% of rework on poor communication or data. If labelled, sequenced, pre-checked parts prevent 15 to 30% of this trade's rework (estimate), callbacks fall by 0.75 to 1.50% of trade spend. On the NAHB reference home (US$428,215 build, 3.3% share = US$14,131) that is US$106 to US$212; not scaled to the 96 m2 sample.",
+   "sources": [
+    "fmi",
+    "fmi_rework",
+    "trades_page"
+   ]
+  }
+ ],
+ "cell_does": [
+  "Cuts 16 ladder blocks for 2 partitions so every board edge lands on wood.",
+  "Generates the board layout: 70 sheets of 1220 x 2440, cut widths listed per wall."
+ ],
+ "cell_cannot": [
+  "Cut gypsum board (score and snap, or a CNC panel router).",
+  "Tape and finish."
+ ],
+ "addons": [],
+ "app": [
+  "Takeoff: sheet list by wall and face.",
+  "Scan: block shows partition."
+ ],
+ "refs": [
+  "BCBC 9.29.5",
+  "GA-216"
+ ],
+ "headline": {
+  "pieces": 16,
+  "sheets": 70
+ },
+ "notes": [],
+ "asm": "DW",
+ "code": "BCBC 9.29.5 (gypsum board), ASTM C840 / GA-216 application",
+ "summary": "Backing and ladder blocking at every corner and partition, plus a sheet-by-sheet board layout per wall from the model so the board order matches the walls.",
+ "board_layout": [
+  {
+   "wall": "GF South",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF South",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF South",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF South",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF South",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF South",
+   "face": 0,
+   "sheet": 6,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF South",
+   "face": 0,
+   "sheet": 7,
+   "width_mm": 680,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF East",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF East",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF East",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF East",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF East",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1120,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF North",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF North",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF North",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF North",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF North",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF North",
+   "face": 0,
+   "sheet": 6,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF North",
+   "face": 0,
+   "sheet": 7,
+   "width_mm": 680,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF West",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF West",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF West",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF West",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "GF West",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1120,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF South",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF South",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF South",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF South",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF South",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF South",
+   "face": 0,
+   "sheet": 6,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF South",
+   "face": 0,
+   "sheet": 7,
+   "width_mm": 680,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF East",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF East",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF East",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF East",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF East",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1120,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF North",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF North",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF North",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF North",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF North",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF North",
+   "face": 0,
+   "sheet": 6,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF North",
+   "face": 0,
+   "sheet": 7,
+   "width_mm": 680,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF West",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF West",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF West",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF West",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF West",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1120,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition W",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition W",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition W",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition W",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 190,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition W",
+   "face": 1,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition W",
+   "face": 1,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition W",
+   "face": 1,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition W",
+   "face": 1,
+   "sheet": 4,
+   "width_mm": 190,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition S",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition S",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 430,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition S",
+   "face": 1,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "UF bathroom partition S",
+   "face": 1,
+   "sheet": 2,
+   "width_mm": 430,
+   "height_mm": 2450.0
+  },
+  {
+   "wall": "Gable east",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable east",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable east",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable east",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable east",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1120,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable west",
+   "face": 0,
+   "sheet": 1,
+   "width_mm": 1220,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable west",
+   "face": 0,
+   "sheet": 2,
+   "width_mm": 1220,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable west",
+   "face": 0,
+   "sheet": 3,
+   "width_mm": 1220,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable west",
+   "face": 0,
+   "sheet": 4,
+   "width_mm": 1220,
+   "height_mm": 1750.0
+  },
+  {
+   "wall": "Gable west",
+   "face": 0,
+   "sheet": 5,
+   "width_mm": 1120,
+   "height_mm": 1750.0
+  }
+ ],
+ "highlight": "16 ladder blocks so no board edge floats, and a 70-sheet layout by wall.",
+ "label_pick": [
+  "NAT1-1-DW-01-01",
+  "NAT1-1-DW-01-02",
+  "NAT1-1-DW-01-03"
+ ],
+ "routing": "Acucut routing: the cell's nester groups this trade's parts by section and stock length, cuts them in bundle order (last-installed at the bottom), laser-burns the label, QR and every mark listed, and drops each bundle in its zone so the crew picks in install order.",
+ "label_files": [
+  "labels/NAT1-1-DW-01-01.svg",
+  "labels/NAT1-1-DW-01-02.svg",
+  "labels/NAT1-1-DW-01-03.svg"
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "id": "plumbing",
+ "label": "Plumbing",
+ "group": "mep",
+ "rows": [
+  {
+   "seq": 1,
+   "label": "NAT1-1-PL-01-01",
+   "qr_payload": "NAT1/1-PL-01-01",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "S-1 kitchen sink supply stub-outs blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "S-1 supply stub-outs centre line, block top at 500 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  },
+  {
+   "seq": 2,
+   "label": "NAT1-1-PL-01-02",
+   "qr_payload": "NAT1/1-PL-01-02",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "S-1 kitchen sink trap arm blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "S-1 trap arm centre line, block top at 430 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  },
+  {
+   "seq": 3,
+   "label": "NAT1-1-PL-01-03",
+   "qr_payload": "NAT1/1-PL-01-03",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "BT-1 bath valve blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "BT-1 valve centre line, block top at 760 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  },
+  {
+   "seq": 4,
+   "label": "NAT1-1-PL-01-04",
+   "qr_payload": "NAT1/1-PL-01-04",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "BT-1 bath grab-bar backing blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "BT-1 grab-bar backing centre line, block top at 860 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  },
+  {
+   "seq": 5,
+   "label": "NAT1-1-PL-01-05",
+   "qr_payload": "NAT1/1-PL-01-05",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "BT-1 bath spout blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "BT-1 spout centre line, block top at 560 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  },
+  {
+   "seq": 6,
+   "label": "NAT1-1-PL-01-06",
+   "qr_payload": "NAT1/1-PL-01-06",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "WC-1 WC supply blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "WC-1 supply centre line, block top at 200 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  },
+  {
+   "seq": 7,
+   "label": "NAT1-1-PL-01-07",
+   "qr_payload": "NAT1/1-PL-01-07",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "WC-1 WC carrier/backing blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "WC-1 carrier/backing centre line, block top at 750 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  },
+  {
+   "seq": 8,
+   "label": "NAT1-1-PL-01-08",
+   "qr_payload": "NAT1/1-PL-01-08",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "L-1 basin supply stub-outs blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "L-1 supply stub-outs centre line, block top at 530 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  },
+  {
+   "seq": 9,
+   "label": "NAT1-1-PL-01-09",
+   "qr_payload": "NAT1/1-PL-01-09",
+   "trade": "plumbing",
+   "role": "WB",
+   "item": "L-1 basin trap arm blocking",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 368.0,
+   "length_ft_in": "1'-2 1/2\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "L-1 trap arm centre line, block top at 460 mm AFF; fixture centre on the burned line",
+   "bundle": "NAT1-PL-B1",
+   "drop_zone": "wet wall",
+   "install_step": "PL-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BC Plumbing Code 2.3 (supports); BCBC 9.23.5",
+   "flags": "block fits a 406 mm stud bay"
+  }
+ ],
+ "label_specs": [],
+ "bundles": [
+  {
+   "bundle": "NAT1-PL-B1",
+   "pieces": 9,
+   "kg": 7.9,
+   "longest_mm": 368.0,
+   "drop_zone": ""
+  }
+ ],
+ "steps": [
+  {
+   "n": 1,
+   "who": "Framer",
+   "what": "Install wet-wall blocks at the burned heights during framing.",
+   "gate": "Block level, centre on model",
+   "app": "Scan block: fixture, height"
+  },
+  {
+   "n": 2,
+   "who": "Plumber",
+   "what": "Rough-in to the burned centre lines.",
+   "gate": "Rough-in inspection, test",
+   "app": "Log tab test photo"
+  }
+ ],
+ "benefits": [
+  {
+   "metric": "Blocking time",
+   "value": "0.2 h saved on 9 blocks (about CAD 9)",
+   "basis": "estimate",
+   "detail": "Assumes 1.5 min per block measured and cut on site versus 0.4 min with a labelled, pre-cut part, at CAD 46.2/h loaded. Replace with your own time study.",
+   "sources": []
+  },
+  {
+   "metric": "Lumber waste",
+   "value": "9.4% cut waste vs 10% typical order allowance",
+   "basis": "measured+sourced",
+   "detail": "Acucut 1D nester on this trade's 9 sticks: 1 boards, 3.66 m stock for 3.31 m of parts (bundle-window constrained runs add about 0.5 points). Conventional allowance 5 to 15% (BuildingScience). Difference about 0 bf, CAD 0 at CAD 700/MBF (estimate).",
+   "sources": [
+    "bs_ba0201",
+    "biz"
+   ]
+  },
+  {
+   "metric": "Rework and callbacks",
+   "value": "0.75 to 1.50% of trade spend avoided",
+   "basis": "sourced+estimate",
+   "detail": "FMI puts rework at about 5% of construction spend and 48% of rework on poor communication or data. If labelled, sequenced, pre-checked parts prevent 15 to 30% of this trade's rework (estimate), callbacks fall by 0.75 to 1.50% of trade spend. On the NAHB reference home (US$428,215 build, 6.3% share = US$26,978) that is US$202 to US$405; not scaled to the 96 m2 sample.",
+   "sources": [
+    "fmi",
+    "fmi_rework",
+    "trades_page"
+   ]
+  }
+ ],
+ "cell_does": [
+  "Cuts the wet-wall blocking with each fixture's centre line burned on it, so stub-outs land where the model says.",
+  "Lists every drain run and checks it against the framing (holes and notches per 9.23.5)."
+ ],
+ "cell_cannot": [
+  "Cut pipe. Drains on this slab-on-grade go below the slab; 1 drain needs a designer decision.",
+  "Pressure test or inspection."
+ ],
+ "addons": [],
+ "app": [
+  "MEP view: drains and what each crosses.",
+  "Scan: block shows fixture and heights."
+ ],
+ "refs": [
+  "BC Plumbing Code (BCBC Part 7)",
+  "BCBC 9.23.5"
+ ],
+ "headline": {
+  "pieces": 9,
+  "fixtures": 4,
+  "drains": 4
+ },
+ "notes": [],
+ "asm": "PL",
+ "code": "BC Plumbing Code (BCBC Division B Part 7), BCBC 9.23.5 notching and drilling",
+ "summary": "Wet-wall blocking for every fixture cut and burned with the stub-out centre lines from the model, plus the drain list with joist checks.",
+ "drains": [
+  {
+   "fixture": "S-1 Sink double bowl 33x22",
+   "pipe_in": "1.5",
+   "status": "no framed floor below (slab-on-grade or unframed): drain below slab, no framing checks"
+  },
+  {
+   "fixture": "BT-1 Bath 60x30 alcove, right",
+   "pipe_in": "1.5",
+   "hole_mm": 54.3,
+   "to_wall": "W04",
+   "run_m": 0.48,
+   "joists_crossed": 0,
+   "bores_ok": 0,
+   "fails": [],
+   "stack": {
+    "wall": "W04",
+    "plate": "GEN-1q5DdWft5KE9jjO_ezqwm4-001",
+    "stack_in": "2",
+    "plate_remaining_mm": 74,
+    "refs": [
+     "NTD-PLT-001: BCBC 2024 9.23.5.4"
+    ],
+    "ok": true,
+    "fix": null,
+    "ref": "BCBC 2024 / NBC 2020 9.23.5.4 (top plates)"
+   },
+   "status": "ok",
+   "alternative": null
+  },
+  {
+   "fixture": "WC-1 WC close-coupled 1.28 gpf",
+   "pipe_in": "3",
+   "hole_mm": 94.9,
+   "to_wall": "W04",
+   "run_m": 1.82,
+   "joists_crossed": 0,
+   "bores_ok": 0,
+   "fails": [],
+   "stack": {
+    "wall": "W04",
+    "plate": "GEN-1q5DdWft5KE9jjO_ezqwm4-001",
+    "stack_in": "3",
+    "plate_remaining_mm": 45,
+    "refs": [
+     "NTD-PLT-001: BCBC 2024 9.23.5.4"
+    ],
+    "ok": false,
+    "fix": "reinforce plate with steel strap or re-frame (designer)",
+    "ref": "BCBC 2024 / NBC 2020 9.23.5.4 (top plates)"
+   },
+   "status": "needs designer",
+   "alternative": null
+  },
+  {
+   "fixture": "L-1 Basin drop-in 19x15",
+   "pipe_in": "1.25",
+   "status": "no framed floor below (slab-on-grade or unframed): drain below slab, no framing checks"
+  }
+ ],
+ "highlight": "9 wet-wall blocks for 4 fixtures, each burned with its stub-out centre line; 4 drains checked, 1 flagged for the designer.",
+ "label_pick": [
+  "NAT1-1-PL-01-01",
+  "NAT1-1-PL-01-02",
+  "NAT1-1-PL-01-03"
+ ],
+ "routing": "Acucut routing: the cell's nester groups this trade's parts by section and stock length, cuts them in bundle order (last-installed at the bottom), laser-burns the label, QR and every mark listed, and drops each bundle in its zone so the crew picks in install order.",
+ "label_files": [
+  "labels/NAT1-1-PL-01-01.svg",
+  "labels/NAT1-1-PL-01-02.svg",
+  "labels/NAT1-1-PL-01-03.svg"
+ ]
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="t"><title id="t">Notching and drilling zones</title><style>.bg{fill:#0b1220}.w{fill:#c8935a;stroke:#3b2612;stroke-width:1.5}.w2{fill:#e0b07a;stroke:#3b2612;stroke-width:1.5}.ln{stroke:#9fb3c8;stroke-width:1.5;fill:none}.dim{stroke:#38bdf8;stroke-width:1.5;fill:none}.ok{fill:#22c55e33;stroke:#22c55e;stroke-width:1.5}.no{fill:#ef444433;stroke:#ef4444;stroke-width:1.5}.hl{fill:#38bdf8;}.t{font:600 15px system-ui,sans-serif;fill:#e5edf5}.s{font:13px system-ui,sans-serif;fill:#9fb3c8}.c{font:700 14px system-ui,sans-serif;fill:#38bdf8}.m{fill:#64748b;stroke:#334155}.wrb{stroke:#a78bfa;stroke-width:3;fill:none}.fl{stroke:#f59e0b;stroke-width:3;fill:none}.mem{fill:#f59e0b55;stroke:#f59e0b;stroke-width:1.5}</style>
+<rect class="bg" width="800" height="520"/>
+<text class="t" x="20" y="30">Floor joist (side view) - BCBC 9.23.5.1. holes, 9.23.5.2. notches</text>
+<rect class="m" x="20" y="190" width="70" height="40"/><rect class="m" x="710" y="190" width="70" height="40"/>
+<rect class="w" x="20" y="70" width="760" height="120"/>
+<rect class="ok" x="90" y="120" width="620" height="20" rx="4"/>
+<rect class="no" x="20" y="70" width="760" height="50" style="fill:#ef444415"/><rect class="no" x="20" y="140" width="760" height="50" style="fill:#ef444415"/>
+<circle cx="300" cy="130" r="22" style="fill:#0b1220;stroke:#22c55e;stroke-width:2"/><circle cx="520" cy="130" r="18" style="fill:#0b1220;stroke:#22c55e;stroke-width:2"/>
+<path d="M90 70h45v35h-45z" style="fill:#0b1220;stroke:#22c55e;stroke-width:2"/>
+<path d="M330 190 l20 -30 l20 30z" style="fill:#0b1220;stroke:#ef4444;stroke-width:2"/>
+<text class="s" x="140" y="98">Top notch: within d/2 of bearing, max d/3 deep</text>
+<text class="s" x="380" y="182">No bottom notches</text>
+<text class="s" x="300" y="160" text-anchor="middle" style="fill:#22c55e">Hole max d/4</text>
+<line class="dim" x1="760" y1="70" x2="760" y2="120"/><text class="c" x="752" y="100" text-anchor="end">50 mm min</text>
+<line class="dim" x1="760" y1="140" x2="760" y2="190"/><text class="c" x="752" y="170" text-anchor="end">50 mm min</text>
+<text class="s" x="20" y="250">d = joist depth. 2x8 (184): hole 46 mm, notch 61 mm. 2x10 (235): hole 58, notch 78. 2x12 (286): hole 71, notch 95.</text>
+<text class="s" x="20" y="270" style="fill:#f59e0b">A 3 in drain (about 89 mm OD) does not fit any of these - reroute or frame a header.</text>
+<text class="t" x="20" y="320">Wall stud (top view) - BCBC 9.23.5.3.</text>
+<rect class="w" x="60" y="340" width="89" height="38"/><circle cx="104" cy="359" r="13" style="fill:#0b1220;stroke:#22c55e;stroke-width:2"/>
+<text class="s" x="165" y="355">Loadbearing: keep at least 2/3 of depth</text><text class="s" x="165" y="373">(2x4 - 60 mm, 2x6 - 94 mm remaining)</text>
+<rect class="w" x="60" y="410" width="89" height="38"/><path d="M60 410h44v38h-44z" style="fill:#0b1220;stroke:#ef4444;stroke-width:2"/>
+<text class="s" x="165" y="425">Non-loadbearing: keep at least 40 mm</text><text class="s" x="165" y="443">Cable within 32 mm of face: steel nail plate</text>
+<text class="t" x="480" y="320">Top plate - BCBC 9.23.5.4.</text>
+<rect class="w" x="480" y="340" width="280" height="38"/><rect x="600" y="340" width="40" height="18" style="fill:#0b1220;stroke:#ef4444;stroke-width:2"/>
+<text class="s" x="480" y="400">Keep 50 mm of width, or add a steel strap</text>
+<text class="s" x="480" y="430">I-joists and trusses: only per the maker's design</text>
+</svg>

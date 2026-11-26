@@ -1,0 +1,345 @@
+{
+ "generator": "HASWORKS HOMES / Acucut by HASWORKS HOMES v0.1.0",
+ "platform": "HASWORKS HOMES",
+ "cell": "Acucut by HASWORKS HOMES",
+ "built": "2026-11-25",
+ "sources": {
+  "bs_ba0201": [
+   "BuildingScience BA-0201: advanced framing; take-off waste factor 5% to 15%, typical home 13,100 bf, 3,500 lb wood waste",
+   "https://www.buildingscience.com/documents/bareports/ba-0201-advanced-framing-using-wood-efficiently-from-optimizing-design-to-minimizing-the-dumpster/view"
+  ],
+  "nahb_waste": [
+   "NAHB Research Center typical waste for a 2,000 sq ft home (via Pro Builder): 1,600 lb solid sawn wood, 2,000 lb drywall",
+   "https://www.probuilder.com/design/design-best-practices/article/55196517/from-trash-to-treasure-how-builders-can-limit-construction-waste"
+  ],
+  "nahb_field": [
+   "NAHB Builder's Field Guide: waste rates by material, drywall 1.0 to 1.2 lb/sq ft, wood 1.3 to 2.1 lb/sq ft",
+   "https://p2infohouse.org/ref/11/10171.pdf"
+  ],
+  "fmi": [
+   "PlanGrid/FMI Construction Disconnected (2018): 5.5 h per week looking for project data, 48% of rework from poor communication and project data",
+   "https://www.autodesk.com/blogs/construction/survey-plangrid-fmi/"
+  ],
+  "fmi_rework": [
+   "FMI via Autodesk: rework about 5% of construction spending",
+   "https://constructioncloud.autodesk.com/rs/572-JSV-775/images/harnessing%5Fthe%5Fdata%5Fadvantage%5Fin%5Fconstruction%5Ffmi%5Fapac.pdf"
+  ],
+  "ohsr20": [
+   "BC OHS Regulation Part 20 (20.78 QRP triggers, 20.79 utilities, 20.81 sloping, Figure 20-1)",
+   "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/296_97_16"
+  ],
+  "bcbc_9235": [
+   "BCBC 9.23.5 notching and drilling",
+   "https://free.bcpublications.ca/civix/document/id/public/vbbl2019/1040062336"
+  ],
+  "biz": [
+   "HASWORKS HOMES business case Page: SBCA Framing the American Dream 375.5 h per 2,900 sq ft, cut share 15 to 30%, BC wages, lumber CAD per MBF",
+   "https://cursor.com/canvas/store-fbc32066-7093-47fa-9fd2-df8e73052f27/09bba4aa-3275-4b44-94f6-cbd9782a8474"
+  ],
+  "trades_page": [
+   "HASWORKS HOMES for every trade Page: NAHB 2024 cost shares by trade",
+   "https://cursor.com/canvas/store-fbc32066-7093-47fa-9fd2-df8e73052f27/0f76f0c6-ee63-410d-aee4-8192cbfa0b95"
+  ],
+  "cell_page": [
+   "Acucut by HASWORKS HOMES cutting cell Page (scope, laser marking, add-ons)",
+   "https://cursor.com/canvas/store-fbc32066-7093-47fa-9fd2-df8e73052f27/49729f31-50fc-4f41-ba0e-c346ae3796e5"
+  ],
+  "run": [
+   "NativeBIM sample house run (runs/NativeBIM-sample-house: metrics.json, cut_job.json, stacks.json, mep.json)",
+   "file:///workspace/acucut/runs/NativeBIM-sample-house"
+  ],
+  "excdoc": [
+   "docs/site-layout-excavation.md and runs/excavation-auguston-demo (233.0 m3 planning / 248.2 m3 TIN, layout error p50 5.9 mm)",
+   "file:///workspace/acucut/docs/site-layout-excavation.md"
+  ]
+ },
+ "assumptions": {
+  "wage_cad_loaded": 46.2,
+  "framing_mh_per_sf": 0.129,
+  "cut_share": 0.22,
+  "cut_share_range": [
+   0.15,
+   0.3
+  ],
+  "capture": 0.5,
+  "waste_factor_conventional": 0.1,
+  "waste_factor_range": [
+   0.05,
+   0.15
+  ],
+  "lumber_cad_per_mbf": 700,
+  "rework_share": 0.05,
+  "rework_prevented_range": [
+   0.15,
+   0.3
+  ],
+  "min_per_task": {
+   "hole_site": 2.0,
+   "hole_marked": 0.7,
+   "box_height_site": 1.0,
+   "box_marked": 0.2,
+   "piece_hunt_site": 1.0,
+   "piece_scan": 0.15,
+   "stake_layout_site": 3.0,
+   "stake_marked": 1.0,
+   "cut_site": 1.5,
+   "cut_marked": 0.4,
+   "register_site": 12.0,
+   "register_marked": 4.0,
+   "ro_check_site": 6.0,
+   "ro_check_marked": 2.0,
+   "stringer_site": 45.0,
+   "stringer_marked": 10.0,
+   "trim_site": 3.0,
+   "trim_marked": 1.0
+  },
+  "nahb_ref_build_cost_usd": 428215,
+  "nahb_share_pct": {
+   "electrical": 6.4,
+   "plumbing": 6.3,
+   "hvac": 6.3,
+   "foundations": 10.0,
+   "insulation": 1.6,
+   "drywall": 3.3,
+   "roofing": 3.9
+  },
+  "note": "Per-task minutes are planning assumptions: replace them with your own time study. The 50% capture matches the business-case model."
+ },
+ "trades": [
+  {
+   "id": "excavation",
+   "label": "Excavation and site layout",
+   "group": "site",
+   "summary": "Pre-cut, laser-marked hub stakes, batter boards, grade stakes and spoil-setback lath, each with a QR that resolves to its exact plan coordinate, beside the LandXML and PNEZD files for GPS machine control.",
+   "headline": {
+    "pieces": 59,
+    "stakes": 59,
+    "layout_mm_p50": 5.9,
+    "volume_m3": 233.006,
+    "loads": 32
+   },
+   "highlight": "Stake kit for 26 points with a QR to each plan coordinate, layout 5.9 mm p50 (simulated), 233 m3 planning / 248 m3 TIN cut, 32 truck loads.",
+   "code": "BC OHS Regulation Part 20 (20.78, 20.79, 20.81, 20.90); BCBC 9.12; BC Land Surveyors Act (BCLS keeps legal survey)",
+   "rows": 59
+  },
+  {
+   "id": "foundations",
+   "label": "Foundations and concrete formwork",
+   "group": "site",
+   "summary": "Footing form boards with a laser-burned pour line, stakes, spreaders and keyway strips, plus pressure-treated sill plates with anchor-bolt positions burned at 2.4 m centres or less.",
+   "headline": {
+    "pieces": 78,
+    "bolts": 20,
+    "waste_pct": 6.12,
+    "perimeter_m": 28.0
+   },
+   "highlight": "20 anchor-bolt centres pre-marked on PT sills, footing forms with the pour line burned, 6.1% form-lumber waste.",
+   "code": "BCBC 9.15 (footings and foundations), 9.23.6 (anchorage), 9.23.7 (sill plates), 9.12; CSA S406 for permanent wood foundations; CSA A23.1 concrete",
+   "rows": 78
+  },
+  {
+   "id": "framing",
+   "label": "Wall framing",
+   "group": "structure",
+   "summary": "Every plate, stud, jack, king, cripple, header and block of the 10 walls cut to length and nested from real stock, plates laser-marked with stud layout, studs burned with box heights and pre-bored for cable, bundled by wall in assembly order.",
+   "headline": {
+    "pieces": 373,
+    "walls": 10,
+    "house_waste_pct": 3.31
+   },
+   "highlight": "373 wall members from the real run, house-wide nest waste 3.31% against a 10% order allowance; plates carry the burned stud layout.",
+   "code": "BCBC 9.23 (wood-frame construction); 9.23.10 studs; 9.23.11 plates; 9.23.12 lintels",
+   "rows": 373
+  },
+  {
+   "id": "floor_roof",
+   "label": "Floor and roof framing",
+   "group": "structure",
+   "summary": "Floor joists, rim joists, ceiling joists and rafters with birdsmouth and plumb cuts at the 30.3 degree pitch, cut to the exact model length and marked where each one bears.",
+   "headline": {
+    "pieces": 121,
+    "rafters": 44,
+    "pitch_deg": 30.3
+   },
+   "highlight": "44 rafters with both plumb cuts and a burned birdsmouth line; no saw work on the roof.",
+   "code": "BCBC 9.23.3 to 9.23.4 joists and rafters (span tables), 9.23.9 floor joists, 9.23.13 roof framing",
+   "rows": 121
+  },
+  {
+   "id": "stairs",
+   "label": "Stairs and guards",
+   "group": "interior",
+   "summary": "Stringers with every rise/run notch burned on, treads, risers, landing, newels and balusters, all sized from the model's floor-to-floor height so every riser is equal.",
+   "headline": {
+    "pieces": 66,
+    "risers": 14,
+    "rise_mm": 192.9,
+    "run_mm": 255.0
+   },
+   "highlight": "14 equal risers of 192.9 mm, run 255 mm, all notches burned on 6 stringers; 24 balusters at <= 100 mm gap.",
+   "code": "BCBC 9.8.4 (rise 125 to 200 mm, run 255 to 355 mm private stairs), 9.8.7 handrails, 9.8.8 guards (100 mm max opening)",
+   "rows": 66
+  },
+  {
+   "id": "deck",
+   "label": "Deck (example add-on, not in the sample model)",
+   "group": "exterior",
+   "summary": "A 3.6 x 2.4 m deck off the rear wall: ledger with burned bolt pattern and joist marks, joists, beam, posts and decking cut to length.",
+   "headline": {
+    "pieces": 33,
+    "area_m2": 8.64
+   },
+   "highlight": "Ledger with 9 bolts and 9 joist positions burned on; 33 PT parts cut to length (example deck).",
+   "code": "BCBC 9.23 (wood frame), 9.8.8.1 (guards needed above 600 mm), 9.3.2.9 / CSA O80 (treated wood); municipal deck guide",
+   "rows": 33
+  },
+  {
+   "id": "windows_doors",
+   "label": "Windows and doors",
+   "group": "envelope",
+   "summary": "A rough-opening gauge stick pair for every window and door, burned with the RO size and the unit size, so each opening is checked before the windows arrive.",
+   "headline": {
+    "pieces": 28,
+    "openings": 14
+   },
+   "highlight": "14 openings each get a burned RO gauge pair; bad openings are caught before the window order lands.",
+   "code": "BCBC 9.7 (windows, doors), CSA A440.4 installation, 9.23.12 lintels",
+   "rows": 28
+  },
+  {
+   "id": "roofing",
+   "label": "Roofing and fascia",
+   "group": "envelope",
+   "summary": "Sub-fascia with every rafter tail burned on, and rake boards with the 30.3 degree plumb cuts, so the eave line is straight and the drip edge goes on once.",
+   "headline": {
+    "pieces": 8,
+    "roof_m2": 69.3,
+    "squares": 7.5
+   },
+   "highlight": "Sub-fascia with 22 rafter tails burned on, rakes with 30.3 degree plumb cuts; 7.5 squares from the model.",
+   "code": "BCBC 9.26 (roofing), 9.26.2 underlay, 9.19.1 roof venting",
+   "rows": 8
+  },
+  {
+   "id": "siding",
+   "label": "Siding, rainscreen and exterior trim",
+   "group": "envelope",
+   "summary": "Rainscreen furring, corner boards, belly band and picture-frame window trim cut with 45 degree mitres from the window sizes in the model.",
+   "headline": {
+    "pieces": 237,
+    "wall_m2": 129.0,
+    "trim_kits": 13
+   },
+   "highlight": "13 mitred window and door trim kits plus rainscreen furring for 129 m2 of wall, labelled by opening.",
+   "code": "BCBC 9.27 (cladding), 9.27.2.2 capillary break / rainscreen (required in most of BC coastal climate)",
+   "rows": 237
+  },
+  {
+   "id": "insulation",
+   "label": "Insulation and air barrier",
+   "group": "envelope",
+   "summary": "Eave insulation stops and the attic hatch dam cut to the rafter bays, with the vent-baffle line burned on, plus batt counts from the model's wall and ceiling areas.",
+   "headline": {
+    "pieces": 46,
+    "wall_m2": 129.0,
+    "batts": 288
+   },
+   "highlight": "42 eave stops with the 63 mm vent-baffle line burned on, hatch dam, and a 288-batt takeoff from 129 m2 of net wall.",
+   "code": "BCBC 9.25 (heat transfer, air leakage, vapour), 9.36 (energy efficiency), 9.19.1 (attic venting)",
+   "rows": 46
+  },
+  {
+   "id": "electrical",
+   "label": "Electrical rough-in",
+   "group": "mep",
+   "summary": "Studs arrive with every box burned at its model height and every cable hole pre-bored at the code-safe position, so the electrician walks the house pulling wire instead of drilling.",
+   "headline": {
+    "pieces": 120,
+    "bores": 107,
+    "boxes": 31
+   },
+   "highlight": "107 cable holes pre-bored and 31 box heights burned on 120 studs; drilling time drops from about 3.6 h to 1.2 h (est.).",
+   "code": "BCBC 9.23.5.3 (holes in studs), CEC C22.1 (box heights, cable protection), MEP-008 box marks",
+   "rows": 120
+  },
+  {
+   "id": "plumbing",
+   "label": "Plumbing",
+   "group": "mep",
+   "summary": "Wet-wall blocking for every fixture cut and burned with the stub-out centre lines from the model, plus the drain list with joist checks.",
+   "headline": {
+    "pieces": 9,
+    "fixtures": 4,
+    "drains": 4
+   },
+   "highlight": "9 wet-wall blocks for 4 fixtures, each burned with its stub-out centre line; 4 drains checked, 1 flagged for the designer.",
+   "code": "BC Plumbing Code (BCBC Division B Part 7), BCBC 9.23.5 notching and drilling",
+   "rows": 9
+  },
+  {
+   "id": "hvac",
+   "label": "HVAC and ventilation",
+   "group": "mep",
+   "summary": "Register and grille openings framed from the model's air terminal positions: blocking cut to the joist bay with the opening edges burned on it.",
+   "headline": {
+    "pieces": 14,
+    "terminals": 7
+   },
+   "highlight": "7 registers and grilles framed from model coordinates (14 burned headers); no guessing where the diffuser lands.",
+   "code": "BCBC 9.32 (ventilation), 9.33 (heating), CSA F280 sizing; BCBC 9.23.5 for framing cuts",
+   "rows": 14
+  },
+  {
+   "id": "drywall",
+   "label": "Drywall",
+   "group": "interior",
+   "summary": "Backing and ladder blocking at every corner and partition, plus a sheet-by-sheet board layout per wall from the model so the board order matches the walls.",
+   "headline": {
+    "pieces": 16,
+    "sheets": 70
+   },
+   "highlight": "16 ladder blocks so no board edge floats, and a 70-sheet layout by wall.",
+   "code": "BCBC 9.29.5 (gypsum board), ASTM C840 / GA-216 application",
+   "rows": 16
+  },
+  {
+   "id": "finish",
+   "label": "Finish carpentry and trim",
+   "group": "interior",
+   "summary": "Baseboard per wall with coped/mitred corners and scarf joints over studs, plus door and window casing kits, cut from room dimensions in the model.",
+   "headline": {
+    "pieces": 71
+   },
+   "highlight": "71 baseboard and casing pieces with mitres cut and labelled by room and wall.",
+   "code": "Finish work (no code limits beyond 9.8 guards and handrails)",
+   "rows": 71
+  },
+  {
+   "id": "flooring",
+   "label": "Flooring",
+   "group": "interior",
+   "summary": "Plank rows laid out per room: the cell cuts every starter and end piece, carries each offcut to start the next row, and keeps end joints 300 mm apart.",
+   "headline": {
+    "pieces": 111,
+    "planks": 230,
+    "waste_pct": 0.9
+   },
+   "highlight": "Row-by-row plank layout: 45 rows start from an earlier offcut, 0.9% crosscut waste (last-row rip excluded) on 230 planks.",
+   "code": "Manufacturer installation (expansion gap 12 mm, end-joint stagger >= 300 mm); BCBC 9.30 flooring",
+   "rows": 111
+  },
+  {
+   "id": "cabinets",
+   "label": "Cabinets, millwork and backing",
+   "group": "interior",
+   "summary": "Cabinet, vanity and TV backing cut to the stud bays with screw lines burned at the model heights, plus a countertop list for the fabricator.",
+   "headline": {
+    "pieces": 35,
+    "cabinets": 11
+   },
+   "highlight": "Backing for 11 cabinets, vanity, TV and grab bar in before drywall; no opening walls later.",
+   "code": "Manufacturer installation; backing for grab bars (BCBC 3.8 / 9.31 where applicable)",
+   "rows": 39
+  }
+ ]
+}

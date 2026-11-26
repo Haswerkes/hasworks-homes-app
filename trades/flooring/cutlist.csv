@@ -1,0 +1,112 @@
+seq,label,qr_payload,trade,role,item,material_class,nominal,material,length_mm,length_ft_in,mitre_a_deg,mitre_b_deg,bevel_end_deg,laser_marks,bundle,drop_zone,install_step,install_order,origin,refs,flags
+1,NAT1-1-FL-01-01,NAT1/1-FL-01-01,flooring,PL,room 101 row 1 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-01,1,layout,,
+2,NAT1-1-FL-02-02,NAT1/1-FL-02-02,flooring,PL,room 101 row 2 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-02,2,layout,,
+3,NAT1-1-FL-02-03,NAT1/1-FL-02-03,flooring,PL,room 101 row 2 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-02,2,layout,,offcut reused
+4,NAT1-1-FL-03-04,NAT1/1-FL-03-04,flooring,PL,room 101 row 3 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-03,3,layout,,offcut reused
+5,NAT1-1-FL-03-05,NAT1/1-FL-03-05,flooring,PL,room 101 row 3 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-03,3,layout,,
+6,NAT1-1-FL-04-06,NAT1/1-FL-04-06,flooring,PL,room 101 row 4 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-04,4,layout,,offcut reused
+7,NAT1-1-FL-05-07,NAT1/1-FL-05-07,flooring,PL,room 101 row 5 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-05,5,layout,,offcut reused
+8,NAT1-1-FL-05-08,NAT1/1-FL-05-08,flooring,PL,room 101 row 5 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-05,5,layout,,
+9,NAT1-1-FL-06-09,NAT1/1-FL-06-09,flooring,PL,room 101 row 6 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-06,6,layout,,offcut reused
+10,NAT1-1-FL-07-10,NAT1/1-FL-07-10,flooring,PL,room 101 row 7 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-07,7,layout,,
+11,NAT1-1-FL-07-11,NAT1/1-FL-07-11,flooring,PL,room 101 row 7 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-07,7,layout,,
+12,NAT1-1-FL-08-12,NAT1/1-FL-08-12,flooring,PL,room 101 row 8 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-08,8,layout,,offcut reused
+13,NAT1-1-FL-08-13,NAT1/1-FL-08-13,flooring,PL,room 101 row 8 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-08,8,layout,,
+14,NAT1-1-FL-09-14,NAT1/1-FL-09-14,flooring,PL,room 101 row 9 starter,core,plank,EngOak,969.0,"3'-2 1/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-09,9,layout,,offcut reused
+15,NAT1-1-FL-09-15,NAT1/1-FL-09-15,flooring,PL,room 101 row 9 end,core,plank,EngOak,1120.0,"3'-8 1/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-09,9,layout,,
+16,NAT1-1-FL-10-16,NAT1/1-FL-10-16,flooring,PL,room 101 row 10 starter,core,plank,EngOak,340.0,"1'-1 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-10,10,layout,,offcut reused
+17,NAT1-1-FL-10-17,NAT1/1-FL-10-17,flooring,PL,room 101 row 10 end,core,plank,EngOak,1749.0,"5'-8 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-10,10,layout,,
+18,NAT1-1-FL-11-18,NAT1/1-FL-11-18,flooring,PL,room 101 row 11 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-11,11,layout,,offcut reused
+19,NAT1-1-FL-11-19,NAT1/1-FL-11-19,flooring,PL,room 101 row 11 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-11,11,layout,,
+20,NAT1-1-FL-12-20,NAT1/1-FL-12-20,flooring,PL,room 101 row 12 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-12,12,layout,,offcut reused
+21,NAT1-1-FL-13-21,NAT1/1-FL-13-21,flooring,PL,room 101 row 13 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-13,13,layout,,
+22,NAT1-1-FL-13-22,NAT1/1-FL-13-22,flooring,PL,room 101 row 13 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-13,13,layout,,
+23,NAT1-1-FL-14-23,NAT1/1-FL-14-23,flooring,PL,room 101 row 14 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-14,14,layout,,offcut reused
+24,NAT1-1-FL-14-24,NAT1/1-FL-14-24,flooring,PL,room 101 row 14 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-14,14,layout,,
+25,NAT1-1-FL-15-25,NAT1/1-FL-15-25,flooring,PL,room 101 row 15 starter,core,plank,EngOak,969.0,"3'-2 1/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-15,15,layout,,offcut reused
+26,NAT1-1-FL-15-26,NAT1/1-FL-15-26,flooring,PL,room 101 row 15 end,core,plank,EngOak,1120.0,"3'-8 1/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-15,15,layout,,
+27,NAT1-1-FL-16-27,NAT1/1-FL-16-27,flooring,PL,room 101 row 16 starter,core,plank,EngOak,340.0,"1'-1 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-16,16,layout,,offcut reused
+28,NAT1-1-FL-16-28,NAT1/1-FL-16-28,flooring,PL,room 101 row 16 end,core,plank,EngOak,1749.0,"5'-8 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-16,16,layout,,
+29,NAT1-1-FL-17-29,NAT1/1-FL-17-29,flooring,PL,room 101 row 17 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-17,17,layout,,offcut reused
+30,NAT1-1-FL-17-30,NAT1/1-FL-17-30,flooring,PL,room 101 row 17 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-17,17,layout,,
+31,NAT1-1-FL-18-31,NAT1/1-FL-18-31,flooring,PL,room 101 row 18 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-18,18,layout,,offcut reused
+32,NAT1-1-FL-19-32,NAT1/1-FL-19-32,flooring,PL,room 101 row 19 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-19,19,layout,,
+33,NAT1-1-FL-19-33,NAT1/1-FL-19-33,flooring,PL,room 101 row 19 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-19,19,layout,,
+34,NAT1-1-FL-20-34,NAT1/1-FL-20-34,flooring,PL,room 101 row 20 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-20,20,layout,,offcut reused
+35,NAT1-1-FL-20-35,NAT1/1-FL-20-35,flooring,PL,room 101 row 20 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-20,20,layout,,
+36,NAT1-1-FL-21-36,NAT1/1-FL-21-36,flooring,PL,room 101 row 21 starter,core,plank,EngOak,969.0,"3'-2 1/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-21,21,layout,,offcut reused
+37,NAT1-1-FL-21-37,NAT1/1-FL-21-37,flooring,PL,room 101 row 21 end,core,plank,EngOak,1120.0,"3'-8 1/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-21,21,layout,,
+38,NAT1-1-FL-22-38,NAT1/1-FL-22-38,flooring,PL,room 101 row 22 starter,core,plank,EngOak,340.0,"1'-1 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-22,22,layout,,offcut reused
+39,NAT1-1-FL-22-39,NAT1/1-FL-22-39,flooring,PL,room 101 row 22 end,core,plank,EngOak,1749.0,"5'-8 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-22,22,layout,,
+40,NAT1-1-FL-23-40,NAT1/1-FL-23-40,flooring,PL,room 101 row 23 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-23,23,layout,,offcut reused
+41,NAT1-1-FL-23-41,NAT1/1-FL-23-41,flooring,PL,room 101 row 23 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-23,23,layout,,
+42,NAT1-1-FL-24-42,NAT1/1-FL-24-42,flooring,PL,room 101 row 24 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-24,24,layout,,offcut reused
+43,NAT1-1-FL-25-43,NAT1/1-FL-25-43,flooring,PL,room 101 row 25 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-25,25,layout,,
+44,NAT1-1-FL-25-44,NAT1/1-FL-25-44,flooring,PL,room 101 row 25 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-25,25,layout,,
+45,NAT1-1-FL-26-45,NAT1/1-FL-26-45,flooring,PL,room 101 row 26 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-26,26,layout,,offcut reused
+46,NAT1-1-FL-26-46,NAT1/1-FL-26-46,flooring,PL,room 101 row 26 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-26,26,layout,,
+47,NAT1-1-FL-27-47,NAT1/1-FL-27-47,flooring,PL,room 101 row 27 starter,core,plank,EngOak,969.0,"3'-2 1/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-27,27,layout,,offcut reused
+48,NAT1-1-FL-27-48,NAT1/1-FL-27-48,flooring,PL,room 101 row 27 end,core,plank,EngOak,1120.0,"3'-8 1/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-27,27,layout,,
+49,NAT1-1-FL-28-49,NAT1/1-FL-28-49,flooring,PL,room 101 row 28 starter,core,plank,EngOak,340.0,"1'-1 3/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-28,28,layout,,offcut reused
+50,NAT1-1-FL-28-50,NAT1/1-FL-28-50,flooring,PL,room 101 row 28 end,core,plank,EngOak,1749.0,"5'-8 7/8""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-28,28,layout,,
+51,NAT1-1-FL-29-51,NAT1/1-FL-29-51,flooring,PL,room 101 row 29 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-29,29,layout,,offcut reused
+52,NAT1-1-FL-29-52,NAT1/1-FL-29-52,flooring,PL,room 101 row 29 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-29,29,layout,,
+53,NAT1-1-FL-30-53,NAT1/1-FL-30-53,flooring,PL,room 101 row 30 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-101,room 101,FL-30,30,layout,,offcut reused
+54,NAT1-2-FL-01-54,NAT1/2-FL-01-54,flooring,PL,room 201 row 1 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-01,1,layout,,
+55,NAT1-2-FL-02-55,NAT1/2-FL-02-55,flooring,PL,room 201 row 2 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-02,2,layout,,
+56,NAT1-2-FL-02-56,NAT1/2-FL-02-56,flooring,PL,room 201 row 2 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-02,2,layout,,offcut reused
+57,NAT1-2-FL-03-57,NAT1/2-FL-03-57,flooring,PL,room 201 row 3 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-03,3,layout,,offcut reused
+58,NAT1-2-FL-03-58,NAT1/2-FL-03-58,flooring,PL,room 201 row 3 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-03,3,layout,,
+59,NAT1-2-FL-04-59,NAT1/2-FL-04-59,flooring,PL,room 201 row 4 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-04,4,layout,,offcut reused
+60,NAT1-2-FL-05-60,NAT1/2-FL-05-60,flooring,PL,room 201 row 5 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-05,5,layout,,offcut reused
+61,NAT1-2-FL-05-61,NAT1/2-FL-05-61,flooring,PL,room 201 row 5 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-05,5,layout,,
+62,NAT1-2-FL-06-62,NAT1/2-FL-06-62,flooring,PL,room 201 row 6 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-06,6,layout,,offcut reused
+63,NAT1-2-FL-07-63,NAT1/2-FL-07-63,flooring,PL,room 201 row 7 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-07,7,layout,,
+64,NAT1-2-FL-07-64,NAT1/2-FL-07-64,flooring,PL,room 201 row 7 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-07,7,layout,,
+65,NAT1-2-FL-08-65,NAT1/2-FL-08-65,flooring,PL,room 201 row 8 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-08,8,layout,,offcut reused
+66,NAT1-2-FL-08-66,NAT1/2-FL-08-66,flooring,PL,room 201 row 8 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-08,8,layout,,
+67,NAT1-2-FL-09-67,NAT1/2-FL-09-67,flooring,PL,room 201 row 9 starter,core,plank,EngOak,969.0,"3'-2 1/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-09,9,layout,,offcut reused
+68,NAT1-2-FL-09-68,NAT1/2-FL-09-68,flooring,PL,room 201 row 9 end,core,plank,EngOak,1120.0,"3'-8 1/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-09,9,layout,,
+69,NAT1-2-FL-10-69,NAT1/2-FL-10-69,flooring,PL,room 201 row 10 starter,core,plank,EngOak,340.0,"1'-1 3/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-10,10,layout,,offcut reused
+70,NAT1-2-FL-10-70,NAT1/2-FL-10-70,flooring,PL,room 201 row 10 end,core,plank,EngOak,1749.0,"5'-8 7/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-10,10,layout,,
+71,NAT1-2-FL-11-71,NAT1/2-FL-11-71,flooring,PL,room 201 row 11 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-11,11,layout,,offcut reused
+72,NAT1-2-FL-11-72,NAT1/2-FL-11-72,flooring,PL,room 201 row 11 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-11,11,layout,,
+73,NAT1-2-FL-12-73,NAT1/2-FL-12-73,flooring,PL,room 201 row 12 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-12,12,layout,,offcut reused
+74,NAT1-2-FL-13-74,NAT1/2-FL-13-74,flooring,PL,room 201 row 13 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-13,13,layout,,
+75,NAT1-2-FL-13-75,NAT1/2-FL-13-75,flooring,PL,room 201 row 13 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-13,13,layout,,
+76,NAT1-2-FL-14-76,NAT1/2-FL-14-76,flooring,PL,room 201 row 14 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-14,14,layout,,offcut reused
+77,NAT1-2-FL-14-77,NAT1/2-FL-14-77,flooring,PL,room 201 row 14 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-14,14,layout,,
+78,NAT1-2-FL-15-78,NAT1/2-FL-15-78,flooring,PL,room 201 row 15 starter,core,plank,EngOak,969.0,"3'-2 1/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-15,15,layout,,offcut reused
+79,NAT1-2-FL-15-79,NAT1/2-FL-15-79,flooring,PL,room 201 row 15 end,core,plank,EngOak,1120.0,"3'-8 1/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-15,15,layout,,
+80,NAT1-2-FL-16-80,NAT1/2-FL-16-80,flooring,PL,room 201 row 16 starter,core,plank,EngOak,340.0,"1'-1 3/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-16,16,layout,,offcut reused
+81,NAT1-2-FL-16-81,NAT1/2-FL-16-81,flooring,PL,room 201 row 16 end,core,plank,EngOak,1749.0,"5'-8 7/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-16,16,layout,,
+82,NAT1-2-FL-17-82,NAT1/2-FL-17-82,flooring,PL,room 201 row 17 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-17,17,layout,,offcut reused
+83,NAT1-2-FL-17-83,NAT1/2-FL-17-83,flooring,PL,room 201 row 17 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-17,17,layout,,
+84,NAT1-2-FL-18-84,NAT1/2-FL-18-84,flooring,PL,room 201 row 18 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-18,18,layout,,offcut reused
+85,NAT1-2-FL-19-85,NAT1/2-FL-19-85,flooring,PL,room 201 row 19 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-19,19,layout,,
+86,NAT1-2-FL-19-86,NAT1/2-FL-19-86,flooring,PL,room 201 row 19 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-19,19,layout,,
+87,NAT1-2-FL-20-87,NAT1/2-FL-20-87,flooring,PL,room 201 row 20 starter,core,plank,EngOak,600.0,"1'-11 5/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-20,20,layout,,offcut reused
+88,NAT1-2-FL-20-88,NAT1/2-FL-20-88,flooring,PL,room 201 row 20 end,core,plank,EngOak,1489.0,"4'-10 5/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-20,20,layout,,
+89,NAT1-2-FL-21-89,NAT1/2-FL-21-89,flooring,PL,room 201 row 21 starter,core,plank,EngOak,969.0,"3'-2 1/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-21,21,layout,,offcut reused
+90,NAT1-2-FL-21-90,NAT1/2-FL-21-90,flooring,PL,room 201 row 21 end,core,plank,EngOak,1120.0,"3'-8 1/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-21,21,layout,,
+91,NAT1-2-FL-22-91,NAT1/2-FL-22-91,flooring,PL,room 201 row 22 starter,core,plank,EngOak,340.0,"1'-1 3/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-22,22,layout,,offcut reused
+92,NAT1-2-FL-22-92,NAT1/2-FL-22-92,flooring,PL,room 201 row 22 end,core,plank,EngOak,1749.0,"5'-8 7/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-22,22,layout,,
+93,NAT1-2-FL-23-93,NAT1/2-FL-23-93,flooring,PL,room 201 row 23 starter,core,plank,EngOak,709.0,"2'-3 15/16""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-23,23,layout,,offcut reused
+94,NAT1-2-FL-23-94,NAT1/2-FL-23-94,flooring,PL,room 201 row 23 end,core,plank,EngOak,1380.0,"4'-6 5/16""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-23,23,layout,,
+95,NAT1-2-FL-24-95,NAT1/2-FL-24-95,flooring,PL,room 201 row 24 end,core,plank,EngOak,260.0,"0'-10 1/4""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-24,24,layout,,offcut reused
+96,NAT1-2-FL-25-96,NAT1/2-FL-25-96,flooring,PL,room 201 row 25 starter,core,plank,EngOak,1229.0,"4'-0 3/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-25,25,layout,,
+97,NAT1-2-FL-25-97,NAT1/2-FL-25-97,flooring,PL,room 201 row 25 end,core,plank,EngOak,860.0,"2'-9 7/8""",0.0,0.0,0.0,,NAT1-FL-201,room 201,FL-25,25,layout,,
+98,NAT1-1-FL-90-98,NAT1/1-FL-90-98,flooring,TH,Entry threshold,core,1x4,SPF,900.0,"2'-11 7/16""",0.0,0.0,0.0,,NAT1-FL-TR,Entry,FL-90,90,derived,,
+99,NAT1-1-FL-90-99,NAT1/1-FL-90-99,flooring,TH,Bathroom door threshold,core,1x4,SPF,760.0,"2'-5 15/16""",0.0,0.0,0.0,,NAT1-FL-TR,Bathroom door,FL-90,90,derived,,
+100,NAT1-1-FL-91-100,NAT1/1-FL-91-100,flooring,NO,stair nosing 1,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+101,NAT1-1-FL-91-101,NAT1/1-FL-91-101,flooring,NO,stair nosing 2,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+102,NAT1-1-FL-91-102,NAT1/1-FL-91-102,flooring,NO,stair nosing 3,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+103,NAT1-1-FL-91-103,NAT1/1-FL-91-103,flooring,NO,stair nosing 4,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+104,NAT1-1-FL-91-104,NAT1/1-FL-91-104,flooring,NO,stair nosing 5,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+105,NAT1-1-FL-91-105,NAT1/1-FL-91-105,flooring,NO,stair nosing 6,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+106,NAT1-1-FL-91-106,NAT1/1-FL-91-106,flooring,NO,stair nosing 7,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+107,NAT1-1-FL-91-107,NAT1/1-FL-91-107,flooring,NO,stair nosing 8,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+108,NAT1-1-FL-91-108,NAT1/1-FL-91-108,flooring,NO,stair nosing 9,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+109,NAT1-1-FL-91-109,NAT1/1-FL-91-109,flooring,NO,stair nosing 10,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+110,NAT1-1-FL-91-110,NAT1/1-FL-91-110,flooring,NO,stair nosing 11,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,
+111,NAT1-1-FL-91-111,NAT1/1-FL-91-111,flooring,NO,stair nosing 12,core,1x3,SPF,914.0,"3'-0""",0.0,0.0,0.0,,NAT1-FL-TR,stair,FL-91,91,derived,,

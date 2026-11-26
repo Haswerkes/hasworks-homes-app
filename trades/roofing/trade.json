@@ -1,0 +1,300 @@
+{
+ "id": "roofing",
+ "label": "Roofing and fascia",
+ "group": "envelope",
+ "rows": [
+  {
+   "seq": 1,
+   "label": "NAT1-R-RO-01-01",
+   "qr_payload": "NAT1/R-RO-01-01",
+   "trade": "roofing",
+   "role": "SF",
+   "item": "S eave sub-fascia 1",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 4300.0,
+   "length_ft_in": "14'-1 5/16\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "rafter tail 1 centre at 19 mm; rafter tail 2 centre at 425 mm; rafter tail 3 centre at 831 mm; rafter tail 4 centre at 1237 mm; rafter tail 5 centre at 1643 mm; rafter tail 6 centre at 2049 mm; rafter tail 7 centre at 2455 mm; rafter tail 8 centre at 2861 mm",
+   "bundle": "NAT1-RO-B1",
+   "drop_zone": "S eave",
+   "install_step": "RO-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.26; 9.19.1 soffit venting",
+   "flags": "joint over rafter tail"
+  },
+  {
+   "seq": 2,
+   "label": "NAT1-R-RO-01-02",
+   "qr_payload": "NAT1/R-RO-01-02",
+   "trade": "roofing",
+   "role": "SF",
+   "item": "S eave sub-fascia 2",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 4300.0,
+   "length_ft_in": "14'-1 5/16\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "rafter tail 1 centre at 19 mm; rafter tail 2 centre at 425 mm; rafter tail 3 centre at 831 mm; rafter tail 4 centre at 1237 mm; rafter tail 5 centre at 1643 mm; rafter tail 6 centre at 2049 mm; rafter tail 7 centre at 2455 mm; rafter tail 8 centre at 2861 mm",
+   "bundle": "NAT1-RO-B1",
+   "drop_zone": "S eave",
+   "install_step": "RO-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.26; 9.19.1 soffit venting",
+   "flags": "joint over rafter tail"
+  },
+  {
+   "seq": 3,
+   "label": "NAT1-R-RO-01-03",
+   "qr_payload": "NAT1/R-RO-01-03",
+   "trade": "roofing",
+   "role": "SF",
+   "item": "N eave sub-fascia 1",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 4300.0,
+   "length_ft_in": "14'-1 5/16\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "rafter tail 1 centre at 19 mm; rafter tail 2 centre at 425 mm; rafter tail 3 centre at 831 mm; rafter tail 4 centre at 1237 mm; rafter tail 5 centre at 1643 mm; rafter tail 6 centre at 2049 mm; rafter tail 7 centre at 2455 mm; rafter tail 8 centre at 2861 mm",
+   "bundle": "NAT1-RO-B1",
+   "drop_zone": "N eave",
+   "install_step": "RO-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.26; 9.19.1 soffit venting",
+   "flags": "joint over rafter tail"
+  },
+  {
+   "seq": 4,
+   "label": "NAT1-R-RO-01-04",
+   "qr_payload": "NAT1/R-RO-01-04",
+   "trade": "roofing",
+   "role": "SF",
+   "item": "N eave sub-fascia 2",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 4300.0,
+   "length_ft_in": "14'-1 5/16\"",
+   "mitre_a_deg": 0.0,
+   "mitre_b_deg": 0.0,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "rafter tail 1 centre at 19 mm; rafter tail 2 centre at 425 mm; rafter tail 3 centre at 831 mm; rafter tail 4 centre at 1237 mm; rafter tail 5 centre at 1643 mm; rafter tail 6 centre at 2049 mm; rafter tail 7 centre at 2455 mm; rafter tail 8 centre at 2861 mm",
+   "bundle": "NAT1-RO-B1",
+   "drop_zone": "N eave",
+   "install_step": "RO-01",
+   "install_order": 1,
+   "origin": "derived",
+   "refs": "BCBC 9.26; 9.19.1 soffit venting",
+   "flags": "joint over rafter tail"
+  },
+  {
+   "seq": 5,
+   "label": "NAT1-R-RO-02-05",
+   "qr_payload": "NAT1/R-RO-02-05",
+   "trade": "roofing",
+   "role": "RK",
+   "item": "E gable rake S",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 4236.2,
+   "length_ft_in": "13'-10 3/4\"",
+   "mitre_a_deg": 30.3,
+   "mitre_b_deg": 30.3,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "outside face of wall line (300 mm overhang)",
+   "bundle": "NAT1-RO-B2",
+   "drop_zone": "E gable",
+   "install_step": "RO-02",
+   "install_order": 2,
+   "origin": "derived",
+   "refs": "BCBC 9.26",
+   "flags": ""
+  },
+  {
+   "seq": 6,
+   "label": "NAT1-R-RO-02-06",
+   "qr_payload": "NAT1/R-RO-02-06",
+   "trade": "roofing",
+   "role": "RK",
+   "item": "E gable rake N",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 4236.2,
+   "length_ft_in": "13'-10 3/4\"",
+   "mitre_a_deg": 30.3,
+   "mitre_b_deg": 30.3,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "outside face of wall line (300 mm overhang)",
+   "bundle": "NAT1-RO-B2",
+   "drop_zone": "E gable",
+   "install_step": "RO-02",
+   "install_order": 2,
+   "origin": "derived",
+   "refs": "BCBC 9.26",
+   "flags": ""
+  },
+  {
+   "seq": 7,
+   "label": "NAT1-R-RO-02-07",
+   "qr_payload": "NAT1/R-RO-02-07",
+   "trade": "roofing",
+   "role": "RK",
+   "item": "W gable rake S",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 4236.2,
+   "length_ft_in": "13'-10 3/4\"",
+   "mitre_a_deg": 30.3,
+   "mitre_b_deg": 30.3,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "outside face of wall line (300 mm overhang)",
+   "bundle": "NAT1-RO-B2",
+   "drop_zone": "W gable",
+   "install_step": "RO-02",
+   "install_order": 2,
+   "origin": "derived",
+   "refs": "BCBC 9.26",
+   "flags": ""
+  },
+  {
+   "seq": 8,
+   "label": "NAT1-R-RO-02-08",
+   "qr_payload": "NAT1/R-RO-02-08",
+   "trade": "roofing",
+   "role": "RK",
+   "item": "W gable rake N",
+   "material_class": "core",
+   "nominal": "2x6",
+   "material": "SPF",
+   "length_mm": 4236.2,
+   "length_ft_in": "13'-10 3/4\"",
+   "mitre_a_deg": 30.3,
+   "mitre_b_deg": 30.3,
+   "bevel_end_deg": 0.0,
+   "laser_marks": "outside face of wall line (300 mm overhang)",
+   "bundle": "NAT1-RO-B2",
+   "drop_zone": "W gable",
+   "install_step": "RO-02",
+   "install_order": 2,
+   "origin": "derived",
+   "refs": "BCBC 9.26",
+   "flags": ""
+  }
+ ],
+ "label_specs": [],
+ "bundles": [
+  {
+   "bundle": "NAT1-RO-B1",
+   "pieces": 4,
+   "kg": 41.2,
+   "longest_mm": 4300.0,
+   "drop_zone": ""
+  },
+  {
+   "bundle": "NAT1-RO-B2",
+   "pieces": 4,
+   "kg": 40.6,
+   "longest_mm": 4236.2,
+   "drop_zone": ""
+  }
+ ],
+ "steps": [
+  {
+   "n": 1,
+   "who": "Framer",
+   "what": "Snap tails to the burned marks, fix sub-fascia, rakes.",
+   "gate": "Eave straight +-6 mm over 8 m",
+   "app": "Scan: side, tail numbers"
+  },
+  {
+   "n": 2,
+   "who": "Roofer",
+   "what": "Drip edge, underlay, shingles per 9.26.",
+   "gate": "Roofing inspection where required",
+   "app": "Takeoff: squares, bundles"
+  }
+ ],
+ "benefits": [
+  {
+   "metric": "Fascia time",
+   "value": "0.3 h saved on 8 fascia and rake boards (about CAD 14)",
+   "basis": "estimate",
+   "detail": "Assumes 3.0 min per fascia and rake board measured and cut on site versus 1.0 min with a labelled, pre-cut part, at CAD 46.2/h loaded. Replace with your own time study.",
+   "sources": []
+  },
+  {
+   "metric": "Lumber waste",
+   "value": "6.7% cut waste vs 10% typical order allowance",
+   "basis": "measured+sourced",
+   "detail": "Acucut 1D nester on this trade's 8 sticks: 8 boards, 36.58 m stock for 34.14 m of parts (bundle-window constrained runs add about 0.5 points). Conventional allowance 5 to 15% (BuildingScience). Difference about 4 bf, CAD 3 at CAD 700/MBF (estimate).",
+   "sources": [
+    "bs_ba0201",
+    "biz"
+   ]
+  },
+  {
+   "metric": "Rework and callbacks",
+   "value": "0.75 to 1.50% of trade spend avoided",
+   "basis": "sourced+estimate",
+   "detail": "FMI puts rework at about 5% of construction spend and 48% of rework on poor communication or data. If labelled, sequenced, pre-checked parts prevent 15 to 30% of this trade's rework (estimate), callbacks fall by 0.75 to 1.50% of trade spend. On the NAHB reference home (US$428,215 build, 3.9% share = US$16,700) that is US$125 to US$251; not scaled to the 96 m2 sample.",
+   "sources": [
+    "fmi",
+    "fmi_rework",
+    "trades_page"
+   ]
+  }
+ ],
+ "cell_does": [
+  "Cuts the sub-fascia with rafter tail centres burned (406 mm layout) and rakes with both plumb cuts.",
+  "Roofing takeoff from the model: 69.3 m2 = 7.5 squares."
+ ],
+ "cell_cannot": [
+  "Cut shingles, membrane or metal panels.",
+  "Flashing fabrication."
+ ],
+ "addons": [],
+ "app": [
+  "Takeoff: squares, starter, ridge cap.",
+  "Build: roof steps under fall protection."
+ ],
+ "refs": [
+  "BCBC 9.26",
+  "WorkSafeBC OHSR Part 11"
+ ],
+ "headline": {
+  "pieces": 8,
+  "roof_m2": 69.3,
+  "squares": 7.5
+ },
+ "notes": [],
+ "asm": "RO",
+ "code": "BCBC 9.26 (roofing), 9.26.2 underlay, 9.19.1 roof venting",
+ "summary": "Sub-fascia with every rafter tail burned on, and rake boards with the 30.3 degree plumb cuts, so the eave line is straight and the drip edge goes on once.",
+ "highlight": "Sub-fascia with 22 rafter tails burned on, rakes with 30.3 degree plumb cuts; 7.5 squares from the model.",
+ "label_pick": [
+  "NAT1-R-RO-01-01",
+  "NAT1-R-RO-01-02",
+  "NAT1-R-RO-01-03"
+ ],
+ "routing": "Acucut routing: the cell's nester groups this trade's parts by section and stock length, cuts them in bundle order (last-installed at the bottom), laser-burns the label, QR and every mark listed, and drops each bundle in its zone so the crew picks in install order.",
+ "label_files": [
+  "labels/NAT1-R-RO-01-01.svg",
+  "labels/NAT1-R-RO-01-02.svg",
+  "labels/NAT1-R-RO-01-03.svg"
+ ]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="t"><title id="t">Stair geometry</title><style>.bg{fill:#0b1220}.w{fill:#c8935a;stroke:#3b2612;stroke-width:1.5}.w2{fill:#e0b07a;stroke:#3b2612;stroke-width:1.5}.ln{stroke:#9fb3c8;stroke-width:1.5;fill:none}.dim{stroke:#38bdf8;stroke-width:1.5;fill:none}.ok{fill:#22c55e33;stroke:#22c55e;stroke-width:1.5}.no{fill:#ef444433;stroke:#ef4444;stroke-width:1.5}.hl{fill:#38bdf8;}.t{font:600 15px system-ui,sans-serif;fill:#e5edf5}.s{font:13px system-ui,sans-serif;fill:#9fb3c8}.c{font:700 14px system-ui,sans-serif;fill:#38bdf8}.m{fill:#64748b;stroke:#334155}.wrb{stroke:#a78bfa;stroke-width:3;fill:none}.fl{stroke:#f59e0b;stroke-width:3;fill:none}.mem{fill:#f59e0b55;stroke:#f59e0b;stroke-width:1.5}</style>
+<rect class="bg" width="800" height="480"/>
+<text class="t" x="20" y="30">Private stair (inside a house) - BCBC 9.8.4. and 9.8.2.2.</text>
+<path class="w" d="M100 420h120v-60h100v-60h100v-60h100v-60h100v-60h80v360h-600z" style="fill:#c8935a55"/>
+<path class="ln" d="M220 360 L640 120" style="stroke:#38bdf8;stroke-dasharray:6 4"/><text class="c" x="470" y="200" transform="rotate(-29 470 200)">nosing line</text>
+<line class="dim" x1="330" y1="300" x2="330" y2="360"/><path class="dim" d="M324 300h12M324 360h12"/><text class="c" x="338" y="335">Rise 125-200 mm</text>
+<line class="dim" x1="220" y1="372" x2="320" y2="372"/><path class="dim" d="M220 366v12M320 366v12"/><text class="c" x="270" y="394" text-anchor="middle">Run 255-355 mm</text>
+<rect class="w" x="100" y="60" width="380" height="24"/><text class="s" x="110" y="77">Floor / header above</text>
+<line class="dim" x1="300" y1="84" x2="300" y2="306"/><path class="dim" d="M294 84h12"/><text class="c" x="160" y="200">Headroom</text><text class="c" x="160" y="218">1 950 mm min</text>
+<g class="s"><text x="20" y="450">Risers uniform within 5 mm of the next and 10 mm across the flight; treads the same. Tread slope max 1 in 50.</text>
+<text x="20" y="470">Measure total rise between FINISHED floors - flooring at the top and bottom changes the first and last riser.</text></g>
+</svg>

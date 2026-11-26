@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="t"><title id="t">Rainscreen wall section</title><style>.bg{fill:#0b1220}.w{fill:#c8935a;stroke:#3b2612;stroke-width:1.5}.w2{fill:#e0b07a;stroke:#3b2612;stroke-width:1.5}.ln{stroke:#9fb3c8;stroke-width:1.5;fill:none}.dim{stroke:#38bdf8;stroke-width:1.5;fill:none}.ok{fill:#22c55e33;stroke:#22c55e;stroke-width:1.5}.no{fill:#ef444433;stroke:#ef4444;stroke-width:1.5}.hl{fill:#38bdf8;}.t{font:600 15px system-ui,sans-serif;fill:#e5edf5}.s{font:13px system-ui,sans-serif;fill:#9fb3c8}.c{font:700 14px system-ui,sans-serif;fill:#38bdf8}.m{fill:#64748b;stroke:#334155}.wrb{stroke:#a78bfa;stroke-width:3;fill:none}.fl{stroke:#f59e0b;stroke-width:3;fill:none}.mem{fill:#f59e0b55;stroke:#f59e0b;stroke-width:1.5}</style>
+<rect class="bg" width="800" height="560"/>
+<text class="t" x="20" y="30">Rainscreen wall and foundation drainage (coastal BC typical)</text>
+<rect x="300" y="60" width="90" height="330" style="fill:#fde68a33;stroke:#9fb3c8"/><text class="s" x="345" y="225" text-anchor="middle">Insulation</text>
+<rect class="w" x="290" y="60" width="10" height="330" style="fill:#e5edf5"/><text class="s" x="282" y="100" text-anchor="end">Drywall + air/vapour barrier</text>
+<rect class="w" x="390" y="60" width="14" height="330"/><text class="s" x="282" y="140" text-anchor="end">2x6 studs / sheathing</text>
+<path class="wrb" d="M406 60v330"/><rect class="w" x="410" y="60" width="19" height="330" style="fill:#94a3b8"/>
+<rect x="440" y="60" width="12" height="330" style="fill:#38bdf8aa"/>
+<g class="s"><text x="470" y="90">WRB (sheathing membrane)</text><text x="470" y="140">19 mm strapping - drained,</text><text x="470" y="156">vented cavity (min 9.5 mm)</text><text x="470" y="206">Cladding</text></g>
+<path class="fl" d="M400 392h70l6 8"/><text class="s" x="480" y="398">Base flashing, insect screen, open to drain</text>
+<rect class="w" x="290" y="392" width="114" height="24"/><text class="s" x="282" y="410" text-anchor="end">Rim / sill on gasket</text>
+<rect class="m" x="300" y="416" width="100" height="100"/><text class="s" x="282" y="470" text-anchor="end">Concrete foundation</text>
+<rect class="m" x="270" y="516" width="170" height="30"/>
+<path d="M0 470 Q 200 466 300 462" style="stroke:#22c55e;stroke-width:3;fill:none"/><path d="M400 462 L 800 480" style="stroke:#22c55e;stroke-width:3;fill:none"/><text class="s" x="620" y="470">Grade slopes away, 150 mm min clear to wall top</text>
+<rect x="440" y="500" width="60" height="44" style="fill:#64748b55;stroke:#9fb3c8"/><circle cx="470" cy="528" r="12" style="fill:#0b1220;stroke:#38bdf8;stroke-width:2"/>
+<text class="s" x="510" y="526">100 mm perimeter drain in 150 mm clean stone</text>
+<path d="M404 416v100" class="wrb" style="stroke:#f59e0b"/><text class="s" x="510" y="544">Dampproofing below grade</text>
+<text class="s" x="20" y="555">BCBC 9.27.2.2., 9.27.3.3., 9.15.4.6., 9.14.3.2.-3.</text>
+</svg>
