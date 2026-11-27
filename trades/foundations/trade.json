@@ -1965,9 +1965,9 @@
   },
   {
    "metric": "Lumber waste",
-   "value": "6.1% cut waste vs 10% typical order allowance",
+   "value": "5.7% cut waste vs 10% typical order allowance",
    "basis": "measured+sourced",
-   "detail": "Acucut 1D nester on this trade's 78 sticks: 32 boards, 140.82 m stock for 132.2 m of parts (bundle-window constrained runs add about 0.5 points). Conventional allowance 5 to 15% (BuildingScience). Difference about 22 bf, CAD 16 at CAD 700/MBF (estimate).",
+   "detail": "Acucut 1D nester on this trade's 78 sticks: 32 boards, 140.21 m stock for 132.2 m of parts (bundle-window constrained runs add about 0.5 points). Conventional allowance 5 to 15% (BuildingScience). Difference about 24 bf, CAD 17 at CAD 700/MBF (estimate).",
    "sources": [
     "bs_ba0201",
     "biz"
@@ -2023,7 +2023,7 @@
  "headline": {
   "pieces": 78,
   "bolts": 20,
-  "waste_pct": 6.12,
+  "waste_pct": 5.71,
   "perimeter_m": 28.0
  },
  "notes": [],
@@ -2034,7 +2034,7 @@
   "NAT1-0-FD1-02-73",
   "NAT1-0-FD1-01-67"
  ],
- "highlight": "20 anchor-bolt centres pre-marked on PT sills, footing forms with the pour line burned, 6.1% form-lumber waste.",
+ "highlight": "20 anchor-bolt centres pre-marked on PT sills, footing forms with the pour line burned, 5.7% form-lumber waste.",
  "routing": "Acucut routing: the cell's nester groups this trade's parts by section and stock length, cuts them in bundle order (last-installed at the bottom), laser-burns the label, QR and every mark listed, and drops each bundle in its zone so the crew picks in install order.",
  "label_files": [
   "labels/NAT1-0-FD1-01-01.svg",

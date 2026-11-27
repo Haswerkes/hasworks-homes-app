@@ -3,21 +3,21 @@
   "id": "AC20-FZK-Haus",
   "project": "FZK1",
   "source": "AC20-FZK-Haus.ifc",
-  "pieces": 215,
+  "pieces": 219,
   "steps": 5,
-  "bundles": 5,
+  "bundles": 4,
   "ifc": "model.ifc",
-  "bytes": 384297
+  "bytes": 411349
  },
  {
   "id": "Duplex_A_20110907",
   "project": "DUP1",
   "source": "bSI_Duplex_A_20110907.ifc",
-  "pieces": 583,
+  "pieces": 589,
   "steps": 76,
   "bundles": 7,
   "ifc": "model.ifc",
-  "bytes": 1142931
+  "bytes": 1176414
  },
  {
   "id": "IFC_Schependomlaan_incl_planningsdata",
@@ -27,7 +27,7 @@
   "steps": 9,
   "bundles": 3,
   "ifc": null,
-  "bytes": 1098006
+  "bytes": 1112092
  },
  {
   "id": "Ifc4_SampleHouse",
@@ -37,17 +37,17 @@
   "steps": 10,
   "bundles": 3,
   "ifc": "model.ifc",
-  "bytes": 382307
+  "bytes": 397410
  },
  {
   "id": "NativeBIM-sample-house",
   "project": "NAT1",
   "source": "NativeBIM-sample-house.ifc",
-  "pieces": 494,
+  "pieces": 496,
   "steps": 44,
   "bundles": 6,
   "ifc": "model.ifc",
-  "bytes": 922265
+  "bytes": 967502
  },
  {
   "id": "TypicalTimberFramingSpanLessThan25ft",
@@ -57,7 +57,7 @@
   "steps": 14,
   "bundles": 7,
   "ifc": "model.ifc",
-  "bytes": 645154
+  "bytes": 662070
  },
  {
   "id": "wall-elemented-case",
@@ -67,6 +67,6 @@
   "steps": 2,
   "bundles": 1,
   "ifc": "model.ifc",
-  "bytes": 53837
+  "bytes": 62697
  }
 ]

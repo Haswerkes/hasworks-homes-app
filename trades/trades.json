@@ -130,10 +130,10 @@
    "headline": {
     "pieces": 78,
     "bolts": 20,
-    "waste_pct": 6.12,
+    "waste_pct": 5.71,
     "perimeter_m": 28.0
    },
-   "highlight": "20 anchor-bolt centres pre-marked on PT sills, footing forms with the pour line burned, 6.1% form-lumber waste.",
+   "highlight": "20 anchor-bolt centres pre-marked on PT sills, footing forms with the pour line burned, 5.7% form-lumber waste.",
    "code": "BCBC 9.15 (footings and foundations), 9.23.6 (anchorage), 9.23.7 (sill plates), 9.12; CSA S406 for permanent wood foundations; CSA A23.1 concrete",
    "rows": 78
   },
@@ -143,13 +143,13 @@
    "group": "structure",
    "summary": "Every plate, stud, jack, king, cripple, header and block of the 10 walls cut to length and nested from real stock, plates laser-marked with stud layout, studs burned with box heights and pre-bored for cable, bundled by wall in assembly order.",
    "headline": {
-    "pieces": 373,
+    "pieces": 375,
     "walls": 10,
-    "house_waste_pct": 3.31
+    "house_waste_pct": 2.71
    },
-   "highlight": "373 wall members from the real run, house-wide nest waste 3.31% against a 10% order allowance; plates carry the burned stud layout.",
+   "highlight": "375 wall members from the real run, house-wide nest waste 2.71% against a 10% order allowance; plates carry the burned stud layout.",
    "code": "BCBC 9.23 (wood-frame construction); 9.23.10 studs; 9.23.11 plates; 9.23.12 lintels",
-   "rows": 373
+   "rows": 375
   },
   {
    "id": "floor_roof",
@@ -254,13 +254,13 @@
    "group": "mep",
    "summary": "Studs arrive with every box burned at its model height and every cable hole pre-bored at the code-safe position, so the electrician walks the house pulling wire instead of drilling.",
    "headline": {
-    "pieces": 120,
-    "bores": 107,
+    "pieces": 121,
+    "bores": 108,
     "boxes": 31
    },
-   "highlight": "107 cable holes pre-bored and 31 box heights burned on 120 studs; drilling time drops from about 3.6 h to 1.2 h (est.).",
+   "highlight": "108 cable holes pre-bored and 31 box heights burned on 121 studs; drilling time drops from about 3.6 h to 1.3 h (est.).",
    "code": "BCBC 9.23.5.3 (holes in studs), CEC C22.1 (box heights, cable protection), MEP-008 box marks",
-   "rows": 120
+   "rows": 121
   },
   {
    "id": "plumbing",

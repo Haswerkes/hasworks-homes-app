@@ -1,0 +1,150 @@
+{
+ "generated": "2026-11-26 11:04 MST",
+ "files": 298,
+ "formats": {
+  "citygml": {
+   "files": 19,
+   "imported": 12,
+   "clear_failures": 7,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 84.63,
+   "scored": 12,
+   "synthetic_pct": null,
+   "real_pct": 84.63,
+   "cut_list_pct": null
+  },
+  "cityjson": {
+   "files": 21,
+   "imported": 20,
+   "clear_failures": 1,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 99.8,
+   "scored": 20,
+   "synthetic_pct": 100.0,
+   "real_pct": 99.72,
+   "cut_list_pct": null
+  },
+  "dwg": {
+   "files": 16,
+   "imported": 6,
+   "clear_failures": 10,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 99.99,
+   "scored": 6,
+   "synthetic_pct": 99.99,
+   "real_pct": null,
+   "cut_list_pct": 99.94
+  },
+  "dxf": {
+   "files": 37,
+   "imported": 21,
+   "clear_failures": 16,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 99.99,
+   "scored": 21,
+   "synthetic_pct": 99.99,
+   "real_pct": null,
+   "cut_list_pct": 99.95
+  },
+  "fcstd": {
+   "files": 6,
+   "imported": 5,
+   "clear_failures": 1,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 99.89,
+   "scored": 5,
+   "synthetic_pct": 100.0,
+   "real_pct": 99.72,
+   "cut_list_pct": 100.0
+  },
+  "gbxml": {
+   "files": 21,
+   "imported": 16,
+   "clear_failures": 5,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 99.95,
+   "scored": 16,
+   "synthetic_pct": 99.98,
+   "real_pct": 99.93,
+   "cut_list_pct": 99.91
+  },
+  "ifc": {
+   "files": 135,
+   "imported": 121,
+   "clear_failures": 14,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 96.39,
+   "scored": 99,
+   "synthetic_pct": 99.97,
+   "real_pct": 95.89,
+   "cut_list_pct": 99.84
+  },
+  "landxml": {
+   "files": 3,
+   "imported": 3,
+   "clear_failures": 0,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": null,
+   "scored": 0,
+   "synthetic_pct": null,
+   "real_pct": null,
+   "cut_list_pct": null
+  },
+  "mesh": {
+   "files": 25,
+   "imported": 25,
+   "clear_failures": 0,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 95.5,
+   "scored": 25,
+   "synthetic_pct": 99.97,
+   "real_pct": 88.8,
+   "cut_list_pct": 99.83
+  },
+  "pdf": {
+   "files": 5,
+   "imported": 5,
+   "clear_failures": 0,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 99.99,
+   "scored": 5,
+   "synthetic_pct": 99.99,
+   "real_pct": null,
+   "cut_list_pct": 99.95
+  },
+  "step": {
+   "files": 5,
+   "imported": 5,
+   "clear_failures": 0,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 91.0,
+   "scored": 5,
+   "synthetic_pct": 99.97,
+   "real_pct": 77.53,
+   "cut_list_pct": 99.88
+  },
+  "svg": {
+   "files": 5,
+   "imported": 5,
+   "clear_failures": 0,
+   "crashes_or_timeouts": 0,
+   "robustness_pct": 100.0,
+   "accuracy_pct": 99.98,
+   "scored": 5,
+   "synthetic_pct": 99.98,
+   "real_pct": null,
+   "cut_list_pct": 99.9
+  }
+ }
+}

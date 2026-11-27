@@ -1160,9 +1160,9 @@
   },
   {
    "metric": "Lumber waste",
-   "value": "7.2% cut waste vs 10% typical order allowance",
+   "value": "4.2% cut waste vs 10% typical order allowance",
    "basis": "measured+sourced",
-   "detail": "Acucut 1D nester on this trade's 46 sticks: 4 boards, 19.51 m stock for 18.1 m of parts (bundle-window constrained runs add about 0.5 points). Conventional allowance 5 to 15% (BuildingScience). Difference about 2 bf, CAD 1 at CAD 700/MBF (estimate).",
+   "detail": "Acucut 1D nester on this trade's 46 sticks: 4 boards, 18.9 m stock for 18.1 m of parts (bundle-window constrained runs add about 0.5 points). Conventional allowance 5 to 15% (BuildingScience). Difference about 3 bf, CAD 2 at CAD 700/MBF (estimate).",
    "sources": [
     "bs_ba0201",
     "biz"
